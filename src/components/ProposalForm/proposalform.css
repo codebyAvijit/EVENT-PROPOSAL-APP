@@ -5,7 +5,7 @@
       rgba(255, 255, 255, 0.3),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://res.cloudinary.com/duozpcxox/image/upload/v1679994574/ryu9wxzckvmt8iyjhhee.png");
+    url("./../../Assets/Images/homepage1.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -59,7 +59,7 @@ label {
   width: 129px;
   height: 30px;
   /* outline: none; */
-  padding-left:5px ;
+  padding-left: 5px;
 }
 
 .form_contact {
@@ -162,7 +162,7 @@ textarea {
   cursor: pointer;
 }
 
-.form-error{
+.form-error {
   align-items: center;
   color: red;
   margin-bottom: 10px;
